@@ -38,8 +38,10 @@ All examples in this repository use fictional lab data. No customer or productio
 - [x] Create the first repository
 - [x] Create the initial README
 - [x] Add networking fundamentals notes
-- [ ] Install Git on Windows
-- [ ] Install Visual Studio Code
-- [ ] Clone the repository to the computer
+- [x] Install Git on Windows
+- [x] Install Visual Studio Code
+- [x] Clone the repository to the computer
 - [ ] Edit a file from the computer
 - [ ] Push a change to GitHub
+- [ ] Make the first local Git commit
+- [ ] Push the first local commit to GitHub
