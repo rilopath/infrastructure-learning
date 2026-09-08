@@ -48,15 +48,15 @@ tracert google.com
 
 ## Lab Notes
 
-- Date: 08/09/26
-- Computer name:DESKTOP-TVS6GFR
-- Operating system:Microsoft Windows 10 Pro
-- IPv4 address:192.168.1.39
-- Default gateway:192.168.1.1
-- DNS server:192.168.1.1
-- Test result:Completed
-- Problems encountered:-
-- Solution:-
+- Date: 08 September 2026
+- Computer name: DESKTOP-TVS6GFR
+- Operating system: Microsoft Windows 10 Pro
+- IPv4 address: Private lab address
+- Default gateway: Local Router
+- DNS server: 8.8.8.8 (example)
+- Test result:Basic network commands were tested successfully
+- Problems encountered:None
+- Solution:No action required
 
 ## What I Learned
 
