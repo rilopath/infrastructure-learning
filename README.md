@@ -31,3 +31,15 @@ I work as a System Engineer focusing on HPE ProLiant DL servers and HPE XP8 Stor
 ## Important Notice
 
 All examples in this repository use fictional lab data. No customer or production information is included.
+
+## Learning Progress
+
+- [x] Create a GitHub account
+- [x] Create the first repository
+- [x] Create the initial README
+- [x] Add networking fundamentals notes
+- [ ] Install Git on Windows
+- [ ] Install Visual Studio Code
+- [ ] Clone the repository to the computer
+- [ ] Edit a file from the computer
+- [ ] Push a change to GitHub
