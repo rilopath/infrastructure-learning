@@ -65,3 +65,37 @@ I learned that an IP address identifies a device, a default gateway connects dif
 ## Security Notice
 
 All information in this repository comes from a personal lab. No customer or production information is included.
+
+## Networking Lab 01 — Connectivity Testing
+
+### Objective
+
+Test network connectivity step by step, from the local gateway to website access.
+
+### Test Results
+
+| Test | Result | Observation |
+|---|---|---|
+| Ping the local gateway | Successful | 4 packets sent, 4 replies received, 0% packet loss, average round-trip time of 8 ms |
+| Ping 8.8.8.8 | Successful | 4 packets sent, 4 replies received, 0% packet loss, average round-trip time of 22 ms |
+| Run nslookup google.com | Successful | The DNS resolver returned IPv4 and IPv6 addresses |
+| Open https://google.com | Successful | The webpage opened successfully in the browser |
+
+### What I Learned
+
+- A default gateway provides a route to other networks when no more specific route applies.
+- Ping tests network reachability using ICMP echo requests and replies.
+- Ping measures round-trip time, not download speed.
+- DNS resolves domain names to IP addresses.
+- A successful DNS lookup does not guarantee that a website is accessible.
+- Opening a website in a browser tests web access beyond ping and DNS resolution.
+- These results describe connectivity during the test, not long-term network stability.
+
+### Conclusion
+
+The local gateway and the tested internet IP address were reachable.
+DNS resolution returned addresses for google.com, and the webpage opened successfully over HTTPS.
+
+### Security
+
+This document does not include internal corporate network configuration, credentials, or customer data.
